@@ -1,7 +1,7 @@
 # 第三方资料声明
 
 ## 来源说明
-本目录下的文件来自 https://oshwhub.com/Southerly/daplink-fang-zhen-qi-swd
+CMSIS_DAP.hex文件来自 https://oshwhub.com/Southerly/daplink-fang-zhen-qi-swd
 
 ## 版权与协议 (Copyright & License)
 * **版权归属：** 版权归原作者所有。
